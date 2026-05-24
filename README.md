@@ -1,1 +1,2 @@
 # Git-Workflow
+Through this assignment, various Git and GitHub workflows were implemented successfully, including repository creation, SSH authentication, branching, merging, conflict resolution, rebasing, resetting commits, and maintaining structured commit history. The assignment also involved integrating Flask frontend and backend development with proper version control practices, providing practical exposure to collaborative software development workflows.
