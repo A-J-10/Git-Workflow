@@ -3,5 +3,15 @@
         "id": 1,
         "name": "Ankit",
         "course": "Data Science"
+    },
+    {
+        "id": 2,
+        "name": "Rahul",
+        "course": "Machine Learning"
+    },
+    {
+        "id": 3,
+        "name": "Priya",
+        "course": "Artificial Intelligence"
     }
 ]
